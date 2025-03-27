@@ -76,7 +76,7 @@ GolfPose
 | GolfPose-2D(C) | DEKR | 0.858 | [ckpt](http://gofile.me/4RvCV/6HZbJLvIU) | [config](configs/mmpose/golfpose_club_dekr.py) |
 | GolfPose-2D(GC) | HRNet-w48 | 0.915 | [ckpt](http://gofile.me/4RvCV/YmRPLzEMc) | [config](configs/mmpose/golfpose_golfer_hrnetw48.py) |
 | GolfPose-2D(GC) | ViTPose-H | 0.925 | [ckpt](http://gofile.me/4RvCV/S7Th5DCFc) | [config](configs/mmpose/golfpose_golfer_ViTPose_huge.py) |
-| GolfPose-2D(GC) | DEKR | 0.942 | [ckpt](http://gofile.me/4RvCV/gXKtqMnd8) | [config](configs/mmpose/golfpose_golfer_dekr.py) |
+| GolfPose-2D(GC) | DEKR | 0.942 | [ckpt](http://gofile.me/4RvCV/OcHJYdPjK) | [config](configs/mmpose/golfpose_golfer_dekr.py) |
 
 #### GolfPose-3D models
 
