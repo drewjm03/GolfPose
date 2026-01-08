@@ -7,7 +7,7 @@ train_cfg = dict(max_epochs=20, val_interval=1)
 
 # optimizer
 custom_imports = dict(
-    imports=['mmpose.engine.optim_wrappers.layer_decay_optim_wrapper'],
+    imports=['mmpose.engine.optim_wrappers.layer_decay_optim_wrapper', 'mmpretrain.models'],
     allow_failed_imports=False)
 
 optim_wrapper = dict(
