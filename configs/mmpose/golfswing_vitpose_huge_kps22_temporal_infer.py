@@ -1,8 +1,8 @@
 _base_ = ['./golfpose_golfer_ViTPose_huge.py']
 
 metainfo = dict(
-    # Path is relative to your project root (e.g. /content/GolfCoach)
-    from_file='third_party/golfpose/configs/mmpose/_base_/datasets/golfswing_golfer.py'
+    # Path is relative to this config file's directory (configs/mmpose)
+    from_file='_base_/datasets/golfswing_golfer.py'
 )
 
 # Inference-only config:
