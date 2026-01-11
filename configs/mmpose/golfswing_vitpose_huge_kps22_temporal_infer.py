@@ -1,4 +1,4 @@
-_base_ = ['./golfswing_vitpose_huge_kps22_train.py']  # TODO: point this at your actual training config
+_base_ = ['./golfpose_golfer_ViTPose_huge.py']  # TODO: point this at your actual training config
 
 # Inference-only config:
 # - Same model as training
